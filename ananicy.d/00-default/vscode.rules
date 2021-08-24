@@ -1,2 +1,5 @@
 # https://code.visualstudio.com/
 { "name": "code", "type": "Doc-View" }
+
+# If packaged without Microsoft branding, it is sometimes called code-oss instead
+{ "name": "code-oss", "type": "Doc-View" }
